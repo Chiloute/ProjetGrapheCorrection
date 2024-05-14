@@ -2,6 +2,6 @@
 
 - git clone https://github.com/Chiloute/ProjetGrapheCorrection
 - cmake CMakeLists.txt
-- makefile
+- make
 - cd GraphViewer/
 - ./GraphViewer
