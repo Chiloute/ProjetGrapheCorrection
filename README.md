@@ -8,4 +8,4 @@
 
 # Erreur 
 Si vous n'avez pas d'installé cmake, make, gcc faite la commande suivante sur ubuntu : 
-```sudo apt-get install gcc``` par exemple
+```sudo apt-get install cmake``` par exemple
